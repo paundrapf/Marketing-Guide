@@ -18,7 +18,7 @@ Contoh Thread Hook
 
  "Gue naikin followers dari 0 ke 10K dalam 90 hari.
 
-Tanpa ads. Tanpa bot spam. Cuma 8 taktik simple.
+Tanpa ads. Tanpa spam. Cuma 8 taktik simple.
 
 Thread:"
 
