@@ -83,7 +83,7 @@ Problem: "Crypto Twitter demand 16 jam/hari. Reply mention, engage timeline, pos
 
 Agitate: "Kalau lo miss 6 jam? Invisible. Tidur 8 jam? Competitor ambil follower lo. Sustainable? No way. Burnout guaranteed."
 
-Solution: "PAREO Bot = AI twin lo. Jawab mention 24/7. Engage timeline otomatis. Konten auto-post. Lo control dari Telegram. Try free: [link]"
+Solution: "[Produk Lo] = AI twin yang kerja 24/7. Jawab mention otomatis. Engage timeline tanpa lo harus online. Try free: [link]"
 
 Contoh: Email
 
@@ -128,7 +128,7 @@ Before: "6 bulan lalu, followers gue 500. Tweet engagement 10-20 max. Gue spend 
 
 After: "Sekarang followers 8K. Avg engagement 300+. Waktu di Twitter? 30 menit/hari cuma monitoring."
 
-Bridge: "Yang berubah: gue mulai pakai PAREO Bot. AI jawab mention, engage timeline, posting konten. Literally autopilot."
+Bridge: "Yang berubah? Gue mulai pakai automation tool. AI jawab mention, engage timeline, posting konten. Literally autopilot."
 
 Visual Impact
 
@@ -162,7 +162,7 @@ Contoh
 
 Picture: "Bayangin bangun pagi, buka Twitter, 50 mention udah terjawab semua. Engagement naik 200%. Followers bertambah 50 tiap hari. Waktu lo? Cuma 15 menit monitoring."
 
-Promise: "PAREO Bot guarantee: 3x engagement dalam 30 hari atau full refund."
+Promise: "[Produk Lo] guarantee: 3x engagement dalam 30 hari atau full refund."
 
 Prove: "100+ users average hasil: 250% engagement increase, 2-5x follower growth, 80% time saved. Testimoni: [screenshots]"
 
@@ -422,11 +422,11 @@ How they solved it (your product), results achieved.
 
 Contoh: Case Study
 
-Star: "John, DeFi founder with 200 followers after 1 year trying."
+Star: "John, founder startup dengan 200 followers setelah 1 tahun coba-coba."
 
-Story: "He tried everything. Posting 5x/day. Commenting everywhere. Paid for courses. Nothing worked. Engagement flat. Starting to think Twitter wasn't for him."
+Story: "Dia udah coba semua. Posting 5x sehari. Comment di mana-mana. Bayar course mahal. Gak ada yang berhasil. Engagement flat. Hampir nyerah."
 
-Solution: "Then he found PAREO Bot. Setup took 5 minutes. Within 30 days: 2,000 followers. 200+ avg engagement. 3 hours/day saved. Now at 8K and growing."
+Solution: "Lalu dia nemu [Produk Lo]. Setup cuma 5 menit. Dalam 30 hari: 2,000 followers. 200+ avg engagement. 3 jam/hari tersave. Sekarang udah 8K dan terus naik."
 
 Pro Tip
 

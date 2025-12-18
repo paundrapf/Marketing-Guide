@@ -174,7 +174,7 @@ Cara Dapat UGC
 
 Contoh
 
-"Share screenshot hasil bot lo pakai hashtag #PAREOWins. Best screenshot setiap minggu dapat 1 bulan Pro gratis."
+\"Share screenshot hasil pemakaian produk lo pakai hashtag #[BrandLo]Wins. Best screenshot setiap minggu dapat 1 bulan Pro gratis.\"
 
 Benefit
 

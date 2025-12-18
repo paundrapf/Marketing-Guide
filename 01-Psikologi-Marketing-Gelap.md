@@ -302,7 +302,7 @@ Contoh: Landing Page
 Cost: Rp 5 juta/bulan x 12 = Rp 60 juta/tahun
 Kerja: Manusia, jam 9-5 aja
 
-Option B: PAREO X Bot Pro  
+Option B: [Produk Lo] Pro Plan
 Cost: Rp 200 ribu/bulan x 12 = Rp 2.4 juta/tahun
 Kerja: AI, 24/7
 
