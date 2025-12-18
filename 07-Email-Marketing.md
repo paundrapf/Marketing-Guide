@@ -167,17 +167,17 @@ Subject: "I almost quit building this"
 Body:
 "Gue pernah di titik mau give up.
 
-6 bulan bikin bot, 3 bulan no users, burnout parah.
+6 bulan kerja, hampir gak ada customer, burnout parah.
 
-Hampir close project.
+Hampir close semuanya.
 
-Tapi gue coba satu hal lagi: post di Twitter tentang perjalanan gue.
+Tapi gue coba satu hal lagi: share perjalanan gue secara transparan di social media.
 
-Thread viral. 50 sign-ups in 1 day.
+Post itu viral. 50 sign-ups in 1 day.
 
 Lesson: Transparency wins.
 
-Lo punya product yang stuck? Let me help: [link to consultation/product]"
+Lo punya product yang stuck? Here's what worked for me: [link]"
 
 Power
 

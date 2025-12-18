@@ -392,7 +392,7 @@ TAKTIK 15 - HASHTAG STRATEGY
 Twitter
 
 2-3 hashtags max. Lebih = spammy.
-Mix: 1 broad (#marketing) + 1 niche (#twitterautomation) + 1 branded (#yourcompany)
+Mix: 1 broad (#marketing) + 1 niche (#[yourindustry]) + 1 branded (#[yourbrand])
 
 Instagram
 

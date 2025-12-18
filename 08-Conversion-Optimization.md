@@ -28,11 +28,11 @@ Headline: "Welcome to Our Platform"
 
 Good Example
 
-Headline: "Automate Twitter in 3 Minutes"
-Subhead: "AI handles replies, engagement, posting. You monitor."
+Headline: "Get More Done in Less Time"
+Subhead: "Our tool handles the busy work. You focus on growth."
 Visual: Dashboard screenshot
 CTA: "Start Free Trial"
-Trust: "Trusted by 10,000+ founders"
+Trust: "Trusted by 10,000+ professionals"
 
 ═══════════════════════════════════════════════════════════════════
 
@@ -49,7 +49,7 @@ Test: Button color yang kontras dengan page background.
 Text Best Practices
 
 Bad: "Submit", "Click Here"
-Good: "Get My Obot", "Start Free", "Yes, I Want This"
+Good: "Get Started Now", "Start Free", "Yes, I Want This"
 
 Button text should:
 - Start dengan verb
@@ -342,7 +342,7 @@ Launch Campaign:
 - FOMO (Bagian 1) + AIDA (Bagian 2) + Headline Formula (Bagian 3)
 
 Content Strategy:
-- Pillar Content (Bagian 4) + Twitter Thread (Bagian 5) + Email Sequence (Bagian 7)
+- Pillar Content (Bagian 4) + Social Media (Bagian 5) + Email Sequence (Bagian 7)
 
 Growth System:
 - Referral Loop (Bagian 6) + Product-Led (Bagian 6) + Conversion Opt (Bagian 8)

@@ -340,37 +340,37 @@ CONTENT PILLAR TEMPLATE
 
 3-5 Content Pillars untuk Focus
 
-Contoh untuk Twitter Automation Niche:
+Contoh untuk Digital Product (Course/Template/SaaS):
 
-Pillar 1: Twitter Growth Tips
-- How to grow followers
-- Engagement strategies
-- Algorithm hacks
+Pillar 1: Core Topic (Your Expertise)
+- How-to guides
+- Frameworks dan strategies
+- Tips dan best practices
 
-Pillar 2: Automation / Productivity
-- Bot tutorials
-- Time-saving tools
-- Workflow optimization
+Pillar 2: Productivity / Transformation
+- Time-saving methods
+- Efficiency hacks
+- Before/after results
 
-Pillar 3: Behind-the-Scenes Build
+Pillar 3: Behind-the-Scenes
 - Product updates
-- Development journey
+- Building journey
 - Lessons learned
 
 Pillar 4: Customer Success
 - Testimonials
 - Case studies
-- Before/after results
+- User wins
 
-Pillar 5: Industry News / Hot Takes
-- Twitter/X updates
-- AI in marketing
+Pillar 5: Industry / Hot Takes
+- Trends dan news
 - Controversial opinions
+- Engagement discussions
 
 Content Mix
 
 30% Pillar 1 (main expertise)
-25% Pillar 2 (product-adjacent)
+25% Pillar 2 (transformation)
 20% Pillar 3 (personal brand)
 15% Pillar 4 (social proof)
 10% Pillar 5 (engagement bait)
