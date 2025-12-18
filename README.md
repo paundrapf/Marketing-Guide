@@ -5,7 +5,7 @@ PANDUAN MARKETING LENGKAP
 
 Selamat Datang
 
-Lo baru dapat akses ke 100+ taktik marketing yang proven work. Semua dari 30 tahun pengalaman—15 tahun traditional, 15 tahun digital.
+Lo baru dapat akses ke 100+ taktik marketing yang proven work. Semua dari 30 tahun pengalaman : 15 tahun traditional, 15 tahun digital.
 
 Ini bukan teori textbook. Ini battlefield wisdom.
 
